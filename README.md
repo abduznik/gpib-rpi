@@ -23,3 +23,10 @@ This repository provides a simple script to set up GPIB communication with PyVIS
 ```bash
 git clone https://github.com/abduznik/gpib-rpi.git
 cd gpib-rpi
+```
+
+2. Run the .sh
+```bash
+sudo ./install.sh
+```
+
