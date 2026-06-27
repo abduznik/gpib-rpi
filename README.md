@@ -1,3 +1,13 @@
+
+## Support This Project
+
+> **All projects made with passion** 💙
+
+Your support helps us continue developing and maintaining these projects. Consider sponsoring to help keep them alive!
+
+<iframe src="https://github.com/sponsors/abduznik/card" title="Sponsor abduznik" height="225" width="600" style="border: 0;"></iframe>
+
+
 # GPIB Setup Script for Raspberry Pi
 
 This repository provides a simple script to set up GPIB communication with PyVISA and Linux-GPIB on a Raspberry Pi. It supports USB GPIB adapters such as the Agilent 82357A.
@@ -29,4 +39,3 @@ cd gpib-rpi
 ```bash
 sudo ./install.sh
 ```
-
